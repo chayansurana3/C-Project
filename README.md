@@ -1,2 +1,2 @@
 # C-Project
-Here I upload my projects coded in C language
+This repository has projects coded in C language
