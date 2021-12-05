@@ -1,2 +1,2 @@
 # C-Project
-This repository has projects coded in C language
+This repository has projects made by me in C language
